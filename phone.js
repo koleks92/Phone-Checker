@@ -4,5 +4,3 @@ function telephoneCheck(str) {
     return true;
   return false;
 }
-
-telephoneCheck("555-555-5555");
